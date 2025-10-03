@@ -1,0 +1,10 @@
+{
+  "nextId" : 2,
+  "tasks" : [ {
+    "id" : 1,
+    "description" : "Comprar mantimentos",
+    "status" : "todo",
+    "createdAt" : "2025-10-03T15:31:43.435929300Z",
+    "updatedAt" : "2025-10-03T15:31:43.435929300Z"
+  } ]
+}
